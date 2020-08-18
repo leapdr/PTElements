@@ -1,0 +1,23 @@
+{
+  "name": "ptelements",
+  "version": "1.0.0",
+  "description": "Periodic table of elements",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leapdr/PTElements.git"
+  },
+  "author": "Aaron Basco",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/leapdr/PTElements/issues"
+  },
+  "homepage": "https://github.com/leapdr/PTElements#readme"
+}
